@@ -83,9 +83,9 @@ section .container .header a.logo {
 }
 section .container .header ul {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     flex-wrap: wrap;
-    flex-basis: 40%;
+    flex-basis: 50%;
     z-index: 1;
 }
 section .container .header ul li {
